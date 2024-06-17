@@ -25,7 +25,7 @@ I'm on a journey to become a professional developer, eager to learn and help oth
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
 
-### 😂 Random Dev Meme
+
+
 
