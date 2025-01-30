@@ -3,7 +3,7 @@ I'm a passionate web developer using Express, React, Node.js, and MongoDB.<br>
 I'm working to build robust apps and enhance key projects.<br>
 I'm on a journey to become a professional developer, eager to learn and help others along the way.<br>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/Ry6p.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkumar092&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumar092" /> </p>
 
 
